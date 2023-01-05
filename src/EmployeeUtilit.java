@@ -1,7 +1,8 @@
-public class EmployeeUtilit {
-
-    public static void printEmployeesList (Employee employee) {
-        System.out.println(employee.toString());
+/**public class EmployeeUtilit { employeeList
+    public static void printEmployeesList (Employee employeeList[]) {
+        for (int i<10) {
+            System.out.println(employeeList[i]);
+        }
     }
 
     public static int countExpenseSalary (int getSalary()) {
@@ -31,3 +32,5 @@ public class EmployeeUtilit {
         return averageSalary;
     }
 }
+*
+ */
